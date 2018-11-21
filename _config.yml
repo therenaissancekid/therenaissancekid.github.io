@@ -34,38 +34,32 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: Hercules.Phaeton
+twitter: theBuoyantMan
 # google: mygoogle
-# instagram: myinstagram
+instagram: hankavalshiersnutbutter
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: shravan-venkataraman-bb813a75
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: therenaissancekid
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
-# quora: userquora
+quora: Shravan-Venkataraman-1
 # reddit: username
-medium: medium
+medium: RenaissanceKid
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: shravan.venkataraman100793@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    therenaissancekid:
+        name: Shravan Venkataraman
+        bio: Programmer, Researcher, Quant Finance Aficionado
         external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        picture: assets/images/profile-pic.jpg
+        twitter: theBuoyantMan
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
