@@ -104,3 +104,15 @@ plugins:
 
 jekyll-mentions:
     base_url: https://github.com
+    
+# The string encoding which fonts to fetch from Google Fonts.
+# See: <https://hydejack.com/docs/configuration/>
+google_fonts:          Poppins:600|Montserrat:400,400i,700,700
+
+# The text font. Expects a string that is a valid CSS font-family value.
+# To change font-weight, see _sass/variables.scss
+font:                  Montserrat, Helvetica, Arial, sans-serif
+
+# The font used for headings. Expects a string that is a valid CSS font-family value.
+# To change font-weight, see _sass/variables.scss
+font_heading:          Poppins, Helvetica, Arial, sans-serif
